@@ -7,12 +7,9 @@
 A beautifully designed, animated Pokédex application built with Flutter that brings your favorite Pokémon to life. Browse, search, and explore detailed information on the first 151 Pokémon in a smooth and visually appealing interface.
 </p>
 
-📸 App Screenshots
-<p align="center">
-<img src="https://user-images.githubusercontent.com/72691629/149508535-61e86053-1594-4009-b676-e41b59074094.gif" width="250">
-<img src="https://user-images.githubusercontent.com/72691629/149508544-d39a3f2b-24ca-4a0b-980b-1934c568d4f4.gif" width="250">
-<img src="https://user-images.githubusercontent.com/72691629/149508549-b54c8d17-987a-4c92-9a99-9945037dd786.gif" width="250">
-</p>
+📸 App Video
+WhatsApp Video 2025-09-09 at 12.09.41_cfb6acc3.mp4 
+pls see this file in the repo
 
 ✨ Features
 Dynamic Pokémon Grid: Displays a vibrant and scrollable grid of all 151 original Pokémon.
