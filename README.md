@@ -8,8 +8,9 @@ A beautifully designed, animated Pokédex application built with Flutter that br
 </p>
 
 📸 App Video
-WhatsApp Video 2025-09-09 at 12.09.41_cfb6acc3.mp4 
-pls see this file in the repo
+
+https://github.com/user-attachments/assets/146e7001-6f7c-402d-9e9c-94583d0887c7
+
 
 ✨ Features
 Dynamic Pokémon Grid: Displays a vibrant and scrollable grid of all 151 original Pokémon.
